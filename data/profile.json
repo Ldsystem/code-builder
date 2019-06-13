@@ -1,0 +1,26 @@
+{
+  "count": 1000,
+  "output": "test.txt",
+  "separator": ",",
+  "sections": [
+    {
+      "character-set": "upper-lower-digit",
+      "length": 18,
+      "prefix": "QP",
+      "suffix": "SUF",
+      "content": null
+    },
+    {
+      "character-set": null,
+      "length": 0,
+      "prefix": null,
+      "suffix": null,
+      "content": "803"
+    }
+  ],
+  "characters":{
+    "upper": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "lower": "abcdefghijklmnopqrstuvwxyzy",
+    "digit": "0123456789"
+  }
+}
