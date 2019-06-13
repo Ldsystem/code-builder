@@ -26,7 +26,7 @@ type Profile struct {
 	Characters map[string]string `json:"characters"`
 }
 
-func main(){
+func main() {
 	file, err := os.Open(profile)
 	if nil != err {
 		panic(err.Error())
